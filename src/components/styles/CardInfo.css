@@ -1,0 +1,34 @@
+.card {
+    border: none;
+    border-radius: 8px;
+    background: url('../../images/pruebaFondo.png') no-repeat, linear-gradient(to right, #A74CF2, #617BFB);
+}
+.CV-User-Info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.CV-Info-Card {
+    max-height: 290px;
+    max-width: max-content;
+}
+.CV-Card-Info {
+    padding-left: 0;
+   
+}
+.CV-Card-Info h2{
+    font-size: 35px;
+    color: white;
+}
+.CV-Card-Info p{
+    font-size: 14px;
+    color: white;
+}
+.CV-Add {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 60px;
+}
