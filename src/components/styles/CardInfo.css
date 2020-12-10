@@ -1,7 +1,7 @@
 .card {
     border: none;
     border-radius: 8px;
-    background: url('../../images/pruebaFondo.png') no-repeat, linear-gradient(to right, #A74CF2, #617BFB);
+    background: url('../../images/pruebaFondo.png') no-repeat, linear-gradient(to bottom, #A74CF2, #617BFB);
 }
 .CV-User-Info {
     margin-top: 50px;
@@ -10,7 +10,7 @@
 }
 .CV-Info-Card {
     max-height: 290px;
-    max-width: max-content;
+    max-width: 1100px;
 }
 .CV-Card-Info {
     padding-left: 0;
