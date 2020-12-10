@@ -1,7 +1,6 @@
 .card {
     border: none;
     border-radius: 8px;
-    background: url('../../images/pruebaFondo.png') no-repeat, linear-gradient(to bottom, #A74CF2, #617BFB);
 }
 .CV-User-Info {
     margin-top: 50px;
@@ -21,7 +20,7 @@
     color: white;
 }
 .CV-Card-Info p{
-    font-size: 14px;
+    font-size: 18px;
     color: white;
 }
 .CV-Add {
