@@ -1,0 +1,33 @@
+.Welcome-Card {
+    border: none;
+    border-radius: 8px;
+}
+.Welcome-User-Info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.Welcome-Info-Card {
+    max-height: 1600px;
+    max-width: none;
+}
+.Welcome-Info {
+    padding-left: 0;
+   
+}
+.Welcome-Info h1{
+    font-size: 45px;
+    color: white;
+}
+.Welcome-Info h2{
+    font-size: 40px;
+    color: white;
+}
+.Welcome-Welcome-Add {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 60px;
+}
